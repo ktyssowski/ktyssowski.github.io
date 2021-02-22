@@ -3,7 +3,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-Articles and talks I for non-academic audiences:
+Articles and talks for non-academic audiences:
 
 ## Writing
 * [Brains keep temporary molecular records before making a lasting memory.](https://theconversation.com/brains-keep-temporary-molecular-records-before-making-a-lasting-memory-99731) The Conversation. A summary of my 2018 [paper](https://ktyssowski.github.io/files/Tyssowski_2018_Neuron.pdf).
