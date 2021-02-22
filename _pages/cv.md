@@ -31,4 +31,4 @@ Work experience
   * Advisor: Rich Olson
   * Wesleyan University
 
-Please click [here](/files/CV_CURRENT.pdf) to download my full CV.
+Click [here](/files/CV_CURRENT.pdf) to download my full CV.
