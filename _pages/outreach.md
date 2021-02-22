@@ -1,6 +1,6 @@
 ---
 permalink: /outreach/
-title: "Outreach"
+author_profile: true
 ---
 
 These are some articles and talks I have done for non-academic audiences.
