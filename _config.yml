@@ -82,10 +82,12 @@ analytics:
 author:
   name             : "Kelsey Tyssowski"
   avatar           : "headshot_square.jpg"
-  bio              : |+
-    "Postdoctoral Fellow
+  bio              : |
+    Postdoctoral Fellow
+    
     Harvard University
-    she/her"
+    
+    she/her
   location         : "Cambridge, MA"
   employer         :
   twitter          : "kelseytyss"
